@@ -1,2 +1,7 @@
 # analyse-event-ruler
-Для дипломной работы
+
+Старт:
+
+```bash
+./archive.sh
+```
